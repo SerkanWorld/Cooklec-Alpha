@@ -1,0 +1,7 @@
+{
+  "name": "Cooklec-Alpha02",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
